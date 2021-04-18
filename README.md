@@ -1,13 +1,17 @@
 
 
-<h2> Hey there! I'm Chetan.</h2>
+<h2> Hey there! I'm Chetan Wankhede.</h2>
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 💼 &nbsp; Working as a FrontEnd Web Developer at NobleTech Private Limited.
-- 🌱 &nbsp; Learning more about WebTechnogies, Cloud Architecture and Artificial Intelligence.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development Job.
+- 🌱 &nbsp; Learning more about WebTechnogies.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -30,16 +34,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+- 📫 How to connect with me: [Linkedin](https://www.linkedin.com/in/chetan-wankhede-282b20129/) [Email](mailto:chetan.wankhede@outlook.com)
+- [Portfolio](https://chetan3portfolio.netlify.app/#)
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://chetan3portfolio.netlify.app/#"><img alt="Website" src="https://img.shields.io/badge/Website- https://chetan3portfolio.netlify.app/#
+-<a href="https://chetan3portfolio.netlify.app/#"><img alt="Website" src="https://img.shields.io/badge/Website- https://chetan3portfolio.netlify.app/#
 -blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/chetan-wankhede-282b20129/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chetan%20Wankhede-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:chetan.wankhede@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-chetan.wankhede@outlook.com-blue?style=flat-square&logo=outlook"></a>
-</p>
 
 
