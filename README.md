@@ -37,7 +37,6 @@
 - 📫 How to connect with me: [Linkedin](https://www.linkedin.com/in/chetan-wankhede-282b20129/) [Email](mailto:chetan.wankhede@outlook.com)
 - [Portfolio](https://chetan3portfolio.netlify.app/#)
 
--<a href="https://chetan3portfolio.netlify.app/#"><img alt="Website" src="https://img.shields.io/badge/Website- https://chetan3portfolio.netlify.app/#
--blue?style=flat-square&logo=google-chrome"></a>
+
 
 
